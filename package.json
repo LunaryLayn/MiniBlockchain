@@ -1,0 +1,27 @@
+{
+  "name": "miniblockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LunaryLayn/Miniblockchain.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Hugo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LunaryLayn/Miniblockchain/issues"
+  },
+  "homepage": "https://github.com/LunaryLayn/Miniblockchain#readme",
+  "dependencies": {
+    "git": "^0.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
